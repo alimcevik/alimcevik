@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Ali Murat</h1>   
 
-[![Blog](https://img.shields.io/badge/Blog-YazılımKaravanı-informational?style=flat-square&logo=jekyll&logoColor=white)](https://yazilimkaravani.net) [![LinkedIn](https://img.shields.io/badge/LinkedIn-alimcevik-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alimcevik/)  [![LinkedIn](https://img.shields.io/badge/Twitter-alimcevik-informational?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/alimcevik/)
+[![Blog](https://img.shields.io/badge/Blog-YazılımKaravanı-informational?style=flat-square&logo=jekyll&logoColor=white)](https://yazilimkaravani.net)[![Medium](https://img.shields.io/badge/Blog-YazılımKaravanı-informational?style=flat-square&logo=jekyll&logoColor=white)](http://medium.com/@murat.cevik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-alimcevik-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alimcevik/)  [![LinkedIn](https://img.shields.io/badge/Twitter-alimcevik-informational?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/alimcevik/)
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alimcevik)
  
  ## My GitHub
